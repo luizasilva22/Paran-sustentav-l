@@ -24,11 +24,11 @@ body {
     font-size: 16px;
 }
 
-.hotel-imagem{
+.parana-imagem{
     width: 25%;
 }
 
-.hotel{
+.parana{
     background-image: linear-gradient(#008080,008B8B);
     color:white;
     display: flex;
@@ -37,12 +37,12 @@ body {
     padding: 24px 0;
 }
 
-.hotel-div-conteudo{
+.parana-div-conteudo{
     width: 35%;
 }
 
 
-.hotel-titulo{
+.-titulo{
     padding: 24px 0;
 }
 
